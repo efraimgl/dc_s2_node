@@ -18,3 +18,6 @@
   },
   "homepage": "https://github.com/johnpapa/node-hello#readme"
 }
+"scripts": {
+  "test": "jest"
+}
