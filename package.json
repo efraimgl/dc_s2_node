@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,4 @@
     "url": "https://github.com/johnpapa/node-hello/issues"
   },
   "homepage": "https://github.com/johnpapa/node-hello#readme"
-}
-"scripts": {
-  "test": "jest"
 }
